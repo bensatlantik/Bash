@@ -32,12 +32,17 @@ Execute the script:
 Suppose you have the following files in the /home/user/Documents directory:
 
 file1.txt
+
 file2.txt
+
 file3.txt
+
 After running the script, the files will be renamed to:
 
 20241108_151745_file1.txt
+
 20241108_151745_file2.txt
+
 20241108_151745_file3.txt
 
 ## Notes
