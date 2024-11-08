@@ -49,3 +49,7 @@ Change the file types processed by the script (e.g., .jpg, .png).
 Add logging to record the names of the renamed files.
 
 Implement error handling to manage files that cannot be renamed.
+
+Happy scripting!
+
+This README should provide a clear and concise guide for anyone using or modifying the rename_files.sh script.
